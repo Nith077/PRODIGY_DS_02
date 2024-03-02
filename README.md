@@ -1,7 +1,7 @@
 # PRODIGY_DS_02
 Performing data cleaning and exploratory data analysis (EDA) on Titanic DataSet.
 
-## Dataset
+### Dataset
 The dataset used for this project is 'titanic.csv'. The dataset provides information about the passerngers travelled in the ship such as their ID's, survival status, gender, ticket fare, etc.
 
 **Project Task**
