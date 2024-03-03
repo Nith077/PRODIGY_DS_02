@@ -11,6 +11,5 @@ The dataset used for this project is 'titanic.csv'. The dataset provides informa
 **Tools Used**
    1. Python: Programming language used for data analysis and model implementation.
    2. Pandas: Data manipulation and analysis library in Python.
-   3. Scikit-Learn: Machine learning library for building and evaluating predictive models.
-   4. Matplotlib and Seaborn: Libraries for data visualization.
-   5. Google Colab: Cloud-based platform for running Python code and Jupyter notebooks.
+   3. Matplotlib and Seaborn: Libraries for data visualization.
+   4. Google Colab: Cloud-based platform for running Python code and Jupyter notebooks.
